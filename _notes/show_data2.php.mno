@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_showmember" value="name:m_id;datatype:int,name:m_username;datatype:string,name:m_password;datatype:string,name:m_name;datatype:string,name:m_datesave;datatype:timestamp" />
+	<infoitem key="UD_showmember2" value="name:m_id;datatype:int,name:m_username;datatype:string,name:m_password;datatype:string,name:m_name;datatype:string,name:m_datesave;datatype:timestamp" />
+	<infoitem key="UD_showuserlogin" value="name:m_id;datatype:int,name:m_username;datatype:string,name:m_password;datatype:string,name:m_name;datatype:string,name:m_datesave;datatype:timestamp" />
+</info>
